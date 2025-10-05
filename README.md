@@ -1,4 +1,4 @@
-# POO Assignments : Khawla ELHAMDI
+# POO Assignments : EL HAMDI Khawla 
 
 Bienvenue dans ce dépôt GitHub contenant l’ensemble de mes **travaux pratiques, devoirs et projets du module POO**, encadré par **Mr Hain**.
 
